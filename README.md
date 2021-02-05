@@ -18,11 +18,11 @@ make
 ```
 make runall
 ```
-now your passwords are extracted into the file allcrackedpassword.txt
+now your passwords are extracted into the file allcrackedpasswd.txt
 ### step 4
 - check the extracted passwords
 ```
-cat allcrackedpassword.txt
+cat allcrackedpasswd.txt
 ```
 ### step 5
 - To clean the generated files
